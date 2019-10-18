@@ -1,0 +1,22 @@
+mysql:
+    host: 'localhost'
+    port: 3306
+    user_name: root
+    password: '123456'
+    db_name: America
+
+rabbit:
+    host: 'localhost'
+    port: 5673
+    user_name:
+    password:
+
+mongo:
+    host: 'localhost'
+    port: 27017
+    db_name: America
+    collection1: sale_house
+    collection2: sold_house
+    collection3: rent_house
+    user_name:
+    password:
